@@ -1,0 +1,3 @@
+﻿  ThapCam.cpp
+C:\Users\ASUS\source\repos\Another Minesweeper\Another Minesweeper\ThapCam.cpp(188,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Another Minesweeper.vcxproj -> C:\Users\ASUS\source\repos\Another Minesweeper\x64\Debug\Another Minesweeper.exe
